@@ -1,0 +1,82 @@
+{
+  "principal_investigator": [
+    {
+      "name": "Nutth Tuchinda",
+      "role": "Assistant Professor · NJIT CME",
+      "image": "assets/img/nutth.jpg",
+      "bio": "Nutth is an assistant professor in the CME department at NJIT (starting Fall 2025). He completed his PhD with Prof. Chris Schuh at MIT (2019–2023), then worked as a postdoc in the Schuh and Olson groups at MIT before joining NJIT.",
+      "links": [
+        { "text": "NJIT Profile", "url": "https://people.njit.edu/profile/nt385#about" },
+        { "text": "Google Scholar", "url": "https://scholar.google.com/citations?user=QiIAZvwAAAAJ&hl=en" },
+        { "text": "ORCID", "url": "https://orcid.org/0000-0003-4544-5970" },
+        { "text": "CV (PDF)", "url": "downloads/CV.pdf" },
+        { "text": "Email", "url": "mailto:nt385@njit.edu" }
+      ]
+    }
+  ],
+  "postdocs": [],
+  "graduate_students": [
+    {
+      "name": "Md. Hasib",
+      "period": "2025 – Present",
+      "image": "assets/img/hasib.jpg",
+      "bio": "BS in Mechanical Engineering (2025), Bangladesh University of Engineering & Technology (BUET). Enjoys walking, hiking, teaching, and solving math problems."
+    }
+  ],
+  "undergraduate_students": [
+    {
+      "name": "Chisom Ezeanya",
+      "image": "assets/img/logo.png",
+      "links": [
+        { "text": "Email", "url": "mailto:cce25@njit.edu" }
+      ]
+    },
+    {
+      "name": "David Onyegbule",
+      "image": "assets/img/david.jpg",
+      "bio": "David Onyegbule is an undergraduate student at New Jersey Institute of Technology majoring in Chemical Engineering. With a growing background in clean and renewable energy, he is driven to explore this academic path through research.",
+      "links": [
+        { "text": "Email", "url": "mailto:dco22@njit.edu" }
+      ]
+    },
+    {
+      "name": "Pranav Sridhar",
+      "image": "assets/img/logo.png",
+      "links": [
+        { "text": "Email", "url": "mailto:ps2335@njit.edu" }
+      ]
+    },
+    {
+      "name": "Thomas Stephen Amburan",
+      "image": "assets/img/thomas.png",
+      "bio": "Thomas Stephen Amburan is a second-year undergraduate student studying Materials Science and Engineering at the University at Buffalo. He enjoys watching basketball and playing sports in his free time.",
+      "links": [
+        { "text": "Email", "url": "mailto:thomasamburan2@gmail.com" }
+      ]
+    },
+    {
+      "name": "Tucker Erbeck",
+      "image": "assets/img/tucker.jpg",
+      "bio": "Tucker is a visiting student who recently completed a B.S. in Chemical Engineering from the University of Southern California. He enjoys running, swimming, and working on 3D printing projects.",
+      "links": [
+        { "text": "Email", "url": "mailto:terbeck@usc.edu" }
+      ]
+    }
+  ],
+  "high_school_students": [
+    {
+      "name": "Could be you!",
+      "period": "—",
+      "image": "assets/img/logo.png",
+      "bio": "High-school students interested in computational materials science are welcome to inquire about summer and short-term projects."
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Could be you!",
+      "period": "—",
+      "image": "assets/img/logo.png",
+      "bio": "Group alumni will be listed here as members move on to their next roles."
+    }
+  ]
+}

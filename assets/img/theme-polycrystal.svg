@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6f7fb"/>
+      <stop offset="1" stop-color="#e9eaf0"/>
+    </linearGradient>
+    <!-- 6 distinct grain-interior lattice orientations -->
+    <pattern id="lat1" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(0)">
+      <circle cx="2" cy="2" r="1" fill="#1a2a55" opacity=".55"/>
+    </pattern>
+    <pattern id="lat2" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(18)">
+      <circle cx="2" cy="2" r="1" fill="#1a2a55" opacity=".55"/>
+    </pattern>
+    <pattern id="lat3" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(36)">
+      <circle cx="2" cy="2" r="1" fill="#1a2a55" opacity=".55"/>
+    </pattern>
+    <pattern id="lat4" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(-12)">
+      <circle cx="2" cy="2" r="1" fill="#1a2a55" opacity=".55"/>
+    </pattern>
+    <pattern id="lat5" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(-28)">
+      <circle cx="2" cy="2" r="1" fill="#1a2a55" opacity=".55"/>
+    </pattern>
+    <pattern id="lat6" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(50)">
+      <circle cx="2" cy="2" r="1" fill="#1a2a55" opacity=".55"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="250" fill="url(#bgp)"/>
+
+  <!--
+    Grains 1, 2, 4 used to leave an empty triangle between (160,80)-(130,160)-(230,110).
+    Collapsing all three vertices to the shared triple-junction at (175,120) closes it.
+  -->
+  <g stroke="#1a2a55" stroke-width="1.5" fill="none">
+    <path d="M -20 50 L 90 30 L 175 120 L 30 180 Z"                    fill="url(#lat1)"/>
+    <path d="M 90 30 L 200 -10 L 280 40 L 175 120 Z"                   fill="url(#lat2)"/>
+    <path d="M 280 40 L 400 30 L 420 130 L 320 150 L 175 120 Z"        fill="url(#lat3)"/>
+    <path d="M 175 120 L 320 150 L 290 240 L 170 250 Z"                fill="url(#lat4)"/>
+    <path d="M 30 180 L 175 120 L 170 250 L 50 260 L -20 220 Z"        fill="url(#lat5)"/>
+    <path d="M 320 150 L 420 130 L 430 260 L 290 240 Z"                fill="url(#lat6)"/>
+  </g>
+
+  <!-- Solute atoms segregating along grain boundaries (NJIT red) -->
+  <g fill="#cc0033" stroke="#fff" stroke-width=".8">
+    <!-- GB: (90,30) → (175,120) -->
+    <circle cx="115.5" cy="57" r="2.4"/>
+    <circle cx="137"   cy="80" r="2.4"/>
+    <circle cx="158"   cy="102" r="2.4"/>
+    <!-- GB: (200,-10) → (280,40) -->
+    <circle cx="225" cy="7"  r="2.4"/>
+    <circle cx="248" cy="20" r="2.4"/>
+    <circle cx="268" cy="33" r="2.4"/>
+    <!-- GB: (280,40) → (175,120) -->
+    <circle cx="248.5" cy="64"  r="2.4"/>
+    <circle cx="222"   cy="84"  r="2.4"/>
+    <circle cx="196"   cy="104" r="2.4"/>
+    <!-- GB: (175,120) → (320,150) -->
+    <circle cx="207" cy="127" r="2.4"/>
+    <circle cx="247.5" cy="135" r="2.4"/>
+    <circle cx="288" cy="143" r="2.4"/>
+    <!-- GB: (175,120) → (170,250) -->
+    <circle cx="173" cy="163" r="2.4"/>
+    <circle cx="172" cy="207" r="2.4"/>
+    <!-- GB: (30,180) → (175,120) -->
+    <circle cx="73.5" cy="162" r="2.4"/>
+    <circle cx="117"  cy="144" r="2.4"/>
+    <!-- GB: (320,150) → (290,240) -->
+    <circle cx="312" cy="180" r="2.4"/>
+    <circle cx="302" cy="210" r="2.4"/>
+    <!-- GB: (400,30) → (420,130) -->
+    <circle cx="407" cy="60" r="2.4"/>
+    <circle cx="413" cy="95" r="2.4"/>
+  </g>
+
+  <!-- Intra-grain point defects -->
+  <!-- Vacancies (open) -->
+  <g stroke="#1a2a55" stroke-width="1.3" fill="#fff">
+    <circle cx="55"  cy="115" r="3.6"/>
+    <circle cx="180" cy="40"  r="3.6"/>
+    <circle cx="330" cy="90"  r="3.6"/>
+    <circle cx="220" cy="195" r="3.6"/>
+    <circle cx="80"  cy="220" r="3.6"/>
+  </g>
+  <!-- Substitutional solutes inside grains -->
+  <g fill="#cc0033" stroke="#fff" stroke-width=".9">
+    <circle cx="105" cy="90"  r="2.8"/>
+    <circle cx="245" cy="60"  r="2.8"/>
+    <circle cx="370" cy="100" r="2.8"/>
+    <circle cx="260" cy="200" r="2.8"/>
+  </g>
+  <!-- Edge dislocation glyphs with a solute cluster (Cottrell atmosphere) -->
+  <g stroke="#1a1a1a" stroke-width="1.6" fill="none" stroke-linecap="round">
+    <g transform="translate(95 135)">
+      <line x1="-6" y1="0" x2="6" y2="0"/>
+      <line x1="0" y1="0" x2="0" y2="10"/>
+    </g>
+    <g transform="translate(285 95) rotate(15)">
+      <line x1="-6" y1="0" x2="6" y2="0"/>
+      <line x1="0" y1="0" x2="0" y2="10"/>
+    </g>
+    <g transform="translate(120 205) rotate(-10)">
+      <line x1="-6" y1="0" x2="6" y2="0"/>
+      <line x1="0" y1="0" x2="0" y2="10"/>
+    </g>
+  </g>
+  <!-- Solute decoration around the dislocations -->
+  <g fill="#cc0033" stroke="#fff" stroke-width=".7">
+    <circle cx="87"  cy="143" r="1.8"/>
+    <circle cx="103" cy="143" r="1.8"/>
+    <circle cx="95"  cy="148" r="1.8"/>
+    <circle cx="278" cy="103" r="1.8"/>
+    <circle cx="292" cy="103" r="1.8"/>
+    <circle cx="286" cy="110" r="1.8"/>
+    <circle cx="113" cy="213" r="1.8"/>
+    <circle cx="127" cy="213" r="1.8"/>
+  </g>
+
+  <!-- Triple junctions: 6 real TJs after closing the gap -->
+  <g>
+    <g fill="#cc0033" fill-opacity=".20" stroke="none">
+      <circle cx="90"  cy="30"  r="10"/>
+      <circle cx="280" cy="40"  r="10"/>
+      <circle cx="175" cy="120" r="11"/>
+      <circle cx="30"  cy="180" r="10"/>
+      <circle cx="320" cy="150" r="10"/>
+      <circle cx="170" cy="250" r="10"/>
+    </g>
+    <g fill="#cc0033" stroke="#fff" stroke-width="1.6">
+      <circle cx="90"  cy="30"  r="5.5"/>
+      <circle cx="280" cy="40"  r="5.5"/>
+      <circle cx="175" cy="120" r="6"/>
+      <circle cx="30"  cy="180" r="5.5"/>
+      <circle cx="320" cy="150" r="5.5"/>
+      <circle cx="170" cy="250" r="5.5"/>
+    </g>
+  </g>
+</svg>

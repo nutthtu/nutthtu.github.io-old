@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-01-01",
+    "title": "Welcome Md. Hasib to our group!",
+    "description": "Md. Hasib joins the group as a PhD student starting Spring 2026.",
+    "image": "news_images/hasib.jpg",
+    "url": ""
+  },
+  {
+    "date": "2025-12-09",
+    "title": "Nutth gave a seminar talk on GB entropy at Rutgers",
+    "description": "Invited departmental seminar on grain-boundary entropy and its role in segregation thermodynamics.",
+    "image": "assets/img/logo.png",
+    "url": ""
+  },
+  {
+    "date": "2025-12-01",
+    "title": "Nutth presented at MRS Fall 2025 on the Augmented Potential Method",
+    "description": "Talk at the Materials Research Society Fall Meeting on accelerated atomistic simulation of segregated grain boundaries.",
+    "image": "assets/img/logo.png",
+    "url": ""
+  }
+]

@@ -1,0 +1,261 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6f7fb"/>
+      <stop offset="1" stop-color="#e9eaf0"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="250" fill="url(#bgg)"/>
+
+  <!-- ============ LEFT: empty periodic table ============ -->
+  <!--
+    Cell size 7.5 wide × 8 tall.
+    Origin (table x0,y0) at (14, 48). 18 columns × 7 rows shape, blank cells.
+    Highlighted cell (the "system" being zoomed): row 4, col 8.
+  -->
+  <g>
+    <text x="14" y="40" font-family="-apple-system, Inter, sans-serif" font-size="12" fill="#1a2a55" font-weight="700" letter-spacing=".06em">PERIODIC TABLE</text>
+  </g>
+
+  <g stroke="#bfc3cf" stroke-width=".6" fill="#fff">
+    <!-- Row 1 -->
+    <rect x="14"   y="48" width="7.5" height="8"/>
+    <rect x="141.5" y="48" width="7.5" height="8"/>
+    <!-- Row 2 (cols 1-2 + 13-18) -->
+    <rect x="14"   y="56" width="7.5" height="8"/>
+    <rect x="21.5" y="56" width="7.5" height="8"/>
+    <rect x="104"  y="56" width="7.5" height="8"/>
+    <rect x="111.5" y="56" width="7.5" height="8"/>
+    <rect x="119"  y="56" width="7.5" height="8"/>
+    <rect x="126.5" y="56" width="7.5" height="8"/>
+    <rect x="134"  y="56" width="7.5" height="8"/>
+    <rect x="141.5" y="56" width="7.5" height="8"/>
+    <!-- Row 3 -->
+    <rect x="14"   y="64" width="7.5" height="8"/>
+    <rect x="21.5" y="64" width="7.5" height="8"/>
+    <rect x="104"  y="64" width="7.5" height="8"/>
+    <rect x="111.5" y="64" width="7.5" height="8"/>
+    <rect x="119"  y="64" width="7.5" height="8"/>
+    <rect x="126.5" y="64" width="7.5" height="8"/>
+    <rect x="134"  y="64" width="7.5" height="8"/>
+    <rect x="141.5" y="64" width="7.5" height="8"/>
+    <!-- Row 4 — full row (18 cells) -->
+    <g>
+      <rect x="14"  y="72" width="7.5" height="8"/>
+      <rect x="21.5" y="72" width="7.5" height="8"/>
+      <rect x="29"  y="72" width="7.5" height="8"/>
+      <rect x="36.5" y="72" width="7.5" height="8"/>
+      <rect x="44"  y="72" width="7.5" height="8"/>
+      <rect x="51.5" y="72" width="7.5" height="8"/>
+      <rect x="59"  y="72" width="7.5" height="8"/>
+      <!-- col 8: highlighted cell -->
+      <rect x="66.5" y="72" width="7.5" height="8" fill="#cc0033" stroke="#cc0033"/>
+      <rect x="74"  y="72" width="7.5" height="8"/>
+      <rect x="81.5" y="72" width="7.5" height="8"/>
+      <rect x="89"  y="72" width="7.5" height="8"/>
+      <rect x="96.5" y="72" width="7.5" height="8"/>
+      <rect x="104"  y="72" width="7.5" height="8"/>
+      <rect x="111.5" y="72" width="7.5" height="8"/>
+      <rect x="119"  y="72" width="7.5" height="8"/>
+      <rect x="126.5" y="72" width="7.5" height="8"/>
+      <rect x="134"  y="72" width="7.5" height="8"/>
+      <rect x="141.5" y="72" width="7.5" height="8"/>
+    </g>
+    <!-- Row 5 -->
+    <g>
+      <rect x="14"  y="80" width="7.5" height="8"/>
+      <rect x="21.5" y="80" width="7.5" height="8"/>
+      <rect x="29"  y="80" width="7.5" height="8"/>
+      <rect x="36.5" y="80" width="7.5" height="8"/>
+      <rect x="44"  y="80" width="7.5" height="8"/>
+      <rect x="51.5" y="80" width="7.5" height="8"/>
+      <rect x="59"  y="80" width="7.5" height="8"/>
+      <rect x="66.5" y="80" width="7.5" height="8"/>
+      <rect x="74"  y="80" width="7.5" height="8"/>
+      <rect x="81.5" y="80" width="7.5" height="8"/>
+      <rect x="89"  y="80" width="7.5" height="8"/>
+      <rect x="96.5" y="80" width="7.5" height="8"/>
+      <rect x="104"  y="80" width="7.5" height="8"/>
+      <rect x="111.5" y="80" width="7.5" height="8"/>
+      <rect x="119"  y="80" width="7.5" height="8"/>
+      <rect x="126.5" y="80" width="7.5" height="8"/>
+      <rect x="134"  y="80" width="7.5" height="8"/>
+      <rect x="141.5" y="80" width="7.5" height="8"/>
+    </g>
+    <!-- Row 6 -->
+    <g>
+      <rect x="14"  y="88" width="7.5" height="8"/>
+      <rect x="21.5" y="88" width="7.5" height="8"/>
+      <rect x="29"  y="88" width="7.5" height="8"/>
+      <rect x="36.5" y="88" width="7.5" height="8"/>
+      <rect x="44"  y="88" width="7.5" height="8"/>
+      <rect x="51.5" y="88" width="7.5" height="8"/>
+      <rect x="59"  y="88" width="7.5" height="8"/>
+      <rect x="66.5" y="88" width="7.5" height="8"/>
+      <rect x="74"  y="88" width="7.5" height="8"/>
+      <rect x="81.5" y="88" width="7.5" height="8"/>
+      <rect x="89"  y="88" width="7.5" height="8"/>
+      <rect x="96.5" y="88" width="7.5" height="8"/>
+      <rect x="104"  y="88" width="7.5" height="8"/>
+      <rect x="111.5" y="88" width="7.5" height="8"/>
+      <rect x="119"  y="88" width="7.5" height="8"/>
+      <rect x="126.5" y="88" width="7.5" height="8"/>
+      <rect x="134"  y="88" width="7.5" height="8"/>
+      <rect x="141.5" y="88" width="7.5" height="8"/>
+    </g>
+    <!-- Row 7 -->
+    <g>
+      <rect x="14"  y="96" width="7.5" height="8"/>
+      <rect x="21.5" y="96" width="7.5" height="8"/>
+      <rect x="29"  y="96" width="7.5" height="8"/>
+      <rect x="36.5" y="96" width="7.5" height="8"/>
+      <rect x="44"  y="96" width="7.5" height="8"/>
+      <rect x="51.5" y="96" width="7.5" height="8"/>
+      <rect x="59"  y="96" width="7.5" height="8"/>
+      <rect x="66.5" y="96" width="7.5" height="8"/>
+      <rect x="74"  y="96" width="7.5" height="8"/>
+      <rect x="81.5" y="96" width="7.5" height="8"/>
+      <rect x="89"  y="96" width="7.5" height="8"/>
+      <rect x="96.5" y="96" width="7.5" height="8"/>
+      <rect x="104"  y="96" width="7.5" height="8"/>
+      <rect x="111.5" y="96" width="7.5" height="8"/>
+      <rect x="119"  y="96" width="7.5" height="8"/>
+      <rect x="126.5" y="96" width="7.5" height="8"/>
+      <rect x="134"  y="96" width="7.5" height="8"/>
+      <rect x="141.5" y="96" width="7.5" height="8"/>
+    </g>
+    <!-- Lanthanides row -->
+    <g>
+      <rect x="29"  y="112" width="7.5" height="8"/>
+      <rect x="36.5" y="112" width="7.5" height="8"/>
+      <rect x="44"  y="112" width="7.5" height="8"/>
+      <rect x="51.5" y="112" width="7.5" height="8"/>
+      <rect x="59"  y="112" width="7.5" height="8"/>
+      <rect x="66.5" y="112" width="7.5" height="8"/>
+      <rect x="74"  y="112" width="7.5" height="8"/>
+      <rect x="81.5" y="112" width="7.5" height="8"/>
+      <rect x="89"  y="112" width="7.5" height="8"/>
+      <rect x="96.5" y="112" width="7.5" height="8"/>
+      <rect x="104"  y="112" width="7.5" height="8"/>
+      <rect x="111.5" y="112" width="7.5" height="8"/>
+      <rect x="119"  y="112" width="7.5" height="8"/>
+      <rect x="126.5" y="112" width="7.5" height="8"/>
+    </g>
+    <!-- Actinides row -->
+    <g>
+      <rect x="29"  y="120" width="7.5" height="8"/>
+      <rect x="36.5" y="120" width="7.5" height="8"/>
+      <rect x="44"  y="120" width="7.5" height="8"/>
+      <rect x="51.5" y="120" width="7.5" height="8"/>
+      <rect x="59"  y="120" width="7.5" height="8"/>
+      <rect x="66.5" y="120" width="7.5" height="8"/>
+      <rect x="74"  y="120" width="7.5" height="8"/>
+      <rect x="81.5" y="120" width="7.5" height="8"/>
+      <rect x="89"  y="120" width="7.5" height="8"/>
+      <rect x="96.5" y="120" width="7.5" height="8"/>
+      <rect x="104"  y="120" width="7.5" height="8"/>
+      <rect x="111.5" y="120" width="7.5" height="8"/>
+      <rect x="119"  y="120" width="7.5" height="8"/>
+      <rect x="126.5" y="120" width="7.5" height="8"/>
+    </g>
+  </g>
+
+  <!-- ============ Zoom callout (panning zoom from highlighted cell) ============ -->
+  <!-- Right panel sits in (200..380, 30..220). Cone edges connect highlighted cell corners to right-panel corners. -->
+  <g>
+    <!-- Cone fill (subtle) -->
+    <path d="M 66.5 72 L 180 30 L 180 220 L 74 80 Z"
+          fill="#cc0033" fill-opacity=".05" stroke="none"/>
+    <!-- Cone outlines (dashed) -->
+    <g stroke="#cc0033" stroke-width="1" stroke-dasharray="3 3" fill="none">
+      <line x1="66.5" y1="72" x2="180" y2="30"/>
+      <line x1="74"   y1="80" x2="180" y2="220"/>
+    </g>
+    <!-- A small "lens" emphasis circle around the highlighted cell -->
+    <circle cx="70.25" cy="76" r="9" fill="none" stroke="#cc0033" stroke-width="1.2" opacity=".9"/>
+  </g>
+
+  <!-- ============ RIGHT: distributions of segregation energy ============ -->
+  <!-- Whole subpanel shifted left 20 (translate) so the title clears the right edge;
+       the cone's right endpoints above were moved 200->180 to match this new left edge. -->
+  <g transform="translate(-20,0)">
+  <!-- Panel border -->
+  <g>
+    <rect x="200" y="30" width="180" height="190" fill="#fff" stroke="#1a2a55" stroke-width="1"/>
+    <text x="290" y="22" font-family="-apple-system, Inter, sans-serif" font-size="11" fill="#1a2a55" font-weight="700" text-anchor="middle" letter-spacing=".06em">SEGREGATION ENERGY DISTRIBUTIONS</text>
+  </g>
+
+  <!--
+    Four stacked sub-panels. Each is 180 wide, ~42 tall.
+    Panel y-rows: 32..72, 74..114, 116..156, 158..198
+    Then a shared x-axis 198..218 with tick labels.
+    Each curve drawn from x=215 to x=375 (160px wide).
+  -->
+
+  <!-- Row labels: full names, top-left of each row -->
+  <g font-family="-apple-system, Inter, sans-serif" font-size="11" fill="#1a2a55" font-weight="700" letter-spacing=".03em">
+    <text x="208" y="42">Grain Boundary</text>
+    <text x="208" y="84">Triple Junction</text>
+    <text x="208" y="126">Surface</text>
+    <text x="208" y="168">Dislocation</text>
+  </g>
+
+  <!-- Row separators -->
+  <g stroke="#e1e3eb" stroke-width=".7">
+    <line x1="200" y1="72"  x2="380" y2="72"/>
+    <line x1="200" y1="114" x2="380" y2="114"/>
+    <line x1="200" y1="156" x2="380" y2="156"/>
+    <line x1="200" y1="198" x2="380" y2="198"/>
+  </g>
+
+  <!-- Baselines and curves.
+       Each curve uses a smooth path that returns to baseline at both ends.
+       Different positions/widths/shapes for each defect type. -->
+
+  <!-- GB distribution: broad-ish, centered slightly left of middle -->
+  <g>
+    <line x1="220" y1="70" x2="375" y2="70" stroke="#bfc3cf" stroke-width=".7"/>
+    <path d="M 220 70
+             C 240 70, 250 68, 260 62
+             C 268 56, 278 50, 290 50
+             C 302 50, 312 58, 322 64
+             C 338 68, 358 70, 375 70 Z"
+          fill="#cc0033" fill-opacity=".55" stroke="#cc0033" stroke-width="1.2"/>
+  </g>
+
+  <!-- TJ distribution: narrower, shifted left (often stronger segregation) -->
+  <g>
+    <line x1="220" y1="112" x2="375" y2="112" stroke="#bfc3cf" stroke-width=".7"/>
+    <path d="M 220 112
+             C 235 112, 245 110, 252 104
+             C 258 98, 263 90, 270 90
+             C 277 90, 282 100, 288 106
+             C 298 110, 320 112, 375 112 Z"
+          fill="#1a2a55" fill-opacity=".50" stroke="#1a2a55" stroke-width="1.2"/>
+  </g>
+
+  <!-- Surface distribution: broad, skewed/double-peaked -->
+  <g>
+    <line x1="220" y1="154" x2="375" y2="154" stroke="#bfc3cf" stroke-width=".7"/>
+    <path d="M 220 154
+             C 232 154, 240 150, 250 144
+             C 258 138, 262 138, 268 144
+             C 274 150, 282 140, 295 134
+             C 308 130, 320 140, 332 146
+             C 348 152, 365 154, 375 154 Z"
+          fill="#cc0033" fill-opacity=".40" stroke="#cc0033" stroke-width="1.2"/>
+  </g>
+
+  <!-- Dislocation distribution: tight peak, narrow -->
+  <g>
+    <line x1="220" y1="196" x2="375" y2="196" stroke="#bfc3cf" stroke-width=".7"/>
+    <path d="M 220 196
+             C 270 196, 295 194, 305 192
+             C 312 188, 314 178, 318 178
+             C 322 178, 324 188, 330 192
+             C 340 195, 360 196, 375 196 Z"
+          fill="#1a2a55" fill-opacity=".40" stroke="#1a2a55" stroke-width="1.2"/>
+  </g>
+
+  </g>
+</svg>

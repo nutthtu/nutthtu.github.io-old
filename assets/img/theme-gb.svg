@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6f7fb"/>
+      <stop offset="1" stop-color="#e6e9f3"/>
+    </linearGradient>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.4" fill="#1a2a55" opacity=".55"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="250" fill="url(#bg)"/>
+  <!-- Two grains, GB through middle -->
+  <path d="M0 0 L200 0 L170 250 L0 250 Z" fill="url(#dots)"/>
+  <g transform="translate(200,0)">
+    <pattern id="dots2" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(28)">
+      <circle cx="3" cy="3" r="1.4" fill="#cc0033" opacity=".55"/>
+    </pattern>
+    <path d="M0 0 L200 0 L200 250 L-30 250 Z" fill="url(#dots2)"/>
+  </g>
+  <!-- GB segregation atoms along the boundary -->
+  <g fill="#1a2a55" stroke="#fff" stroke-width="1.5">
+    <circle cx="200" cy="20" r="5"/>
+    <circle cx="195" cy="55" r="5"/>
+    <circle cx="190" cy="90" r="5"/>
+    <circle cx="185" cy="125" r="5"/>
+    <circle cx="180" cy="160" r="5"/>
+    <circle cx="175" cy="195" r="5"/>
+    <circle cx="170" cy="230" r="5"/>
+  </g>
+  <!-- GB line -->
+  <path d="M200 0 L170 250" stroke="#1a1a1a" stroke-width="1.2" stroke-dasharray="3 3" fill="none" opacity=".6"/>
+</svg>

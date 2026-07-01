@@ -1,0 +1,172 @@
+[
+  {
+    "category": "Thermodynamics",
+    "items": [
+      {
+        "title": "Thermodynamics and an Introduction to Thermostatistics (Callen)",
+        "url": "https://en.wikipedia.org/wiki/Thermodynamics_and_an_Introduction_to_Thermostatistics",
+        "note": "Highly recommended for learning classical thermo."
+      },
+      {
+        "title": "Fundamentals of Statistical and Thermal Physics (Reif)",
+        "url": "https://www.google.com/books/edition/Fundamentals_of_Statistical_and_Thermal/3ApRAAAAMAAJ?hl=en",
+        "note": "Comprehensive resource for both classical thermodynamics and statistical mechanics."
+      },
+      {
+        "title": "Materials Thermodynamics (Lee)",
+        "url": "https://www.google.com/books/edition/Materials_Thermodynamics_With_Emphasis_O/6x48DQAAQBAJ?hl=en",
+        "note": "Easy-to-follow walkthrough of the thermodynamics of solutions."
+      },
+      {
+        "title": "Chemical Thermodynamics of Materials (Lupis)",
+        "url": "https://www.google.com/books/edition/Chemical_Thermodynamics_of_Materials/KkU5jwEACAAJ?hl=en",
+        "note": "One of the best references for the chemical thermodynamics of materials solutions."
+      }
+    ]
+  },
+  {
+    "category": "Kinetics",
+    "items": [
+      {
+        "title": "Phase Transformations in Metals and Alloys (Porter & Easterling)",
+        "url": "https://www.google.com/books/edition/Phase_Transformations_in_Metals_and_Allo/eYR5Re5tZisC?hl=en",
+        "note": ""
+      },
+      {
+        "title": "Kinetics of Materials (Balluffi, Allen, Carter)",
+        "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/0471749311",
+        "note": ""
+      },
+      {
+        "title": "Diffusion in Solids (Shewmon)",
+        "url": "https://www.google.com/books/edition/Diffusion_in_Solids/0v2qDQAAQBAJ?hl=en&gbpv=0",
+        "note": "Classic textbook on diffusion in solids."
+      },
+      {
+        "title": "Stability of Microstructure in Metallic Systems (Martin & Doherty)",
+        "url": "https://www.cambridge.org/core/books/stability-of-microstructure-in-metallic-systems/BC96B2C42254C44A4BF213462C225E92",
+        "note": ""
+      },
+      {
+        "title": "Phase Transitions in Materials (Fultz)",
+        "url": "https://doi.org/10.1017/9781108641449",
+        "note": ""
+      },
+      {
+        "title": "The Theory of Transformations in Metals and Alloys (J. W. Christian)",
+        "url": "https://www.sciencedirect.com/book/9780080440194/the-theory-of-transformations-in-metals-and-alloys",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "category": "Mechanical Behavior of Materials",
+    "items": [
+      {
+        "title": "Mechanical Behavior of Materials (Meyers)",
+        "url": "https://www.google.com/books/edition/Mechanical_Behavior_of_Materials/v-_oAwAAQBAJ?hl=en&gbpv=0",
+        "note": ""
+      },
+      {
+        "title": "Mechanical Metallurgy (Dieter)",
+        "url": "https://www.betterworldbooks.com/product/detail/mechanical-metallurgy-9780071004060",
+        "note": ""
+      },
+      {
+        "title": "Metal Forming (Hosford, Caddell)",
+        "url": "https://www.google.com/books/edition/Metal_Forming/x0GWAd7hNy0C?hl=en",
+        "note": ""
+      },
+      {
+        "title": "Mechanical Behavior of Materials (Hosford)",
+        "url": "https://www.google.com/books/edition/Mechanical_Behavior_of_Materials/AOGBlCJxs_wC?hl=en&gbpv=0",
+        "note": ""
+      },
+      {
+        "title": "Mechanical Behavior of Materials (Courtney)",
+        "url": "https://www.google.com/books/edition/Mechanical_Behavior_of_Materials/QcYSAAAAQBAJ?hl=en&gbpv=0",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "category": "Physical Metallurgy",
+    "items": [
+      {
+        "title": "Physical Metallurgy Principles (Abbaschian, Abbaschian, Reed-Hill)",
+        "url": "https://books.google.com/books?id=wh4v6UWjYdIC",
+        "note": ""
+      },
+      {
+        "title": "Introduction to Physical Metallurgy (Avner)",
+        "url": "https://www.google.com/books/edition/Introduction_to_Physical_Metallurgy/ZsBTAAAAMAAJ?hl=en",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "category": "Materials Processing & Transport Phenomena",
+    "items": [
+      {
+        "title": "Transport Phenomena in Materials Processing (Poirier & Geiger)",
+        "url": "https://link.springer.com/book/10.1007/978-3-319-48090-9",
+        "note": ""
+      },
+      {
+        "title": "Conduction of Heat in Solids (Carslaw & Jaeger)",
+        "url": "https://global.oup.com/academic/product/conduction-of-heat-in-solids-9780198533689",
+        "note": ""
+      },
+      {
+        "title": "Principles of Extractive Metallurgy (Rosenqvist)",
+        "url": "https://www.google.com/books/edition/Principles_of_Extractive_Metallurgy/I2mg2ine4AEC?hl=en&gbpv=0",
+        "note": ""
+      },
+      {
+        "title": "Transport Phenomena (Bird, Stewart, Lightfoot)",
+        "url": "https://www.google.com/books/edition/Transport_Phenomena/5CxEDwAAQBAJ?hl=en&gbpv=0",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "category": "Computer Programming",
+    "items": [
+      {
+        "title": "Introduction to Computation and Programming Using Python (Guttag)",
+        "url": "https://www.google.com/books/edition/Introduction_to_Computation_and_Programm/KabKDAAAQBAJ?hl=en&gbpv=0",
+        "note": ""
+      },
+      {
+        "title": "MIT 6.0001 — Introduction to Computer Science and Programming in Python",
+        "url": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/",
+        "note": ""
+      },
+      {
+        "title": "MIT 6.0002 — Introduction to Computational Thinking and Data Science",
+        "url": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "category": "Computational Materials Science",
+    "items": [
+      {
+        "title": "Understanding Molecular Simulation (Frenkel & Smit)",
+        "url": "https://www.sciencedirect.com/book/9780122673511/understanding-molecular-simulation",
+        "note": ""
+      },
+      {
+        "title": "Introduction to Computational Chemistry (Jensen, 3rd ed.)",
+        "url": "https://www.wiley.com/en-us/Introduction+to+Computational+Chemistry%2C+3rd+Edition-p-9781118825990",
+        "note": ""
+      },
+      {
+        "title": "Essentials of Computational Chemistry (Cramer)",
+        "url": "https://www.wiley.com/en-us/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821",
+        "note": ""
+      }
+    ]
+  }
+]

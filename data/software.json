@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TripleJunction.py",
+    "category": "Polycrystalline Analysis",
+    "description": "Identification and classification of triple junctions in nano-polycrystalline atomistic models.",
+    "tags": ["python", "atomistic", "polycrystal"],
+    "links": [
+      { "type": "github", "text": "GitHub", "url": "https://github.com/nutthtu/TripleJunction" }
+    ]
+  },
+  {
+    "name": "GBEmbrittlement.py",
+    "category": "Materials Design",
+    "description": "Python package for computing grain-boundary embrittlement spectra and supporting alloy-design workflows.",
+    "tags": ["python", "thermodynamics", "GB"],
+    "links": [
+      { "type": "github", "text": "GitHub", "url": "https://github.com/nutthtu/GBEmbrittlement" }
+    ]
+  }
+]

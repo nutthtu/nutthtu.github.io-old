@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "updated": "2026-06-14",
+    "source": "google-scholar",
+    "count": 18
+  },
+  "publications": [
+    {
+      "title": "The augmented potential method: Multiscale modeling toward a spectral defect genome",
+      "authors": "Nutth Tuchinda, Changle Li, Christopher A Schuh",
+      "venue": "Scripta Materialia",
+      "year": 2026,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359646225004312",
+      "doi": "",
+      "citations": 2,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=5960106041185872064"
+    },
+    {
+      "title": "Why does Re anti-segregate from the grain boundaries in Ni?",
+      "authors": "Christopher Schuh, Changle Li, Sourabh Bhagwan Kadambi, Boopathy Kombaiah, Nutth Tuchinda",
+      "venue": "",
+      "year": 2026,
+      "url": "https://www.researchsquare.com/article/rs-9023696/latest",
+      "doi": "",
+      "citations": 0,
+      "scholar_url": ""
+    },
+    {
+      "title": "Overview: The Spectral Model of Grain Boundary Segregation",
+      "authors": "Thomas P Matson, Nutth Tuchinda, Christopher A Schuh",
+      "venue": "Pergamon",
+      "year": 2026,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359645426002156",
+      "doi": "",
+      "citations": 0,
+      "scholar_url": ""
+    },
+    {
+      "title": "Grain boundary segregation and embrittlement of aluminum binary alloys from first principles",
+      "authors": "Nutth Tuchinda, Gregory B Olson, Christopher A Schuh",
+      "venue": "Acta Materialia",
+      "year": 2025,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359645425003489",
+      "doi": "",
+      "citations": 14,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=15178651365129159220"
+    },
+    {
+      "title": "Grain boundary segregation spectra from a generalized machine-learning potential",
+      "authors": "Nutth Tuchinda, Christopher A Schuh",
+      "venue": "Scripta Materialia",
+      "year": 2025,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359646225001459",
+      "doi": "",
+      "citations": 11,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=3011646146235781085"
+    },
+    {
+      "title": "Interstitial solute segregation at triple junctions: Implications for nanomaterials and a case study of hydrogen in palladium",
+      "authors": "Nutth Tuchinda, Malik Wagih, Christopher A Schuh",
+      "venue": "Physical Review Materials",
+      "year": 2025,
+      "url": "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.9.056002",
+      "doi": "",
+      "citations": 7,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=1471262195179802533,3191577534638213743"
+    },
+    {
+      "title": "Triple junction solute segregation and the stability of nanocrystalline alloys",
+      "authors": "Nutth Tuchinda, Yu-ning Chiu, Christopher A Schuh",
+      "venue": "Acta Materialia",
+      "year": 2025,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359645425007153",
+      "doi": "",
+      "citations": 6,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=17149792383816143259"
+    },
+    {
+      "title": "A grain boundary embrittlement genome for substitutional cubic alloys",
+      "authors": "Nutth Tuchinda, Gregory B Olson, Christopher A Schuh",
+      "venue": "Applied Physics Letters",
+      "year": 2025,
+      "url": "https://pubs.aip.org/aip/apl/article/126/17/171602/3345390",
+      "doi": "",
+      "citations": 6,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=12297863009689707430"
+    },
+    {
+      "title": "MTEN 631-851: Data Science for CME",
+      "authors": "Nutth Tuchinda",
+      "venue": "",
+      "year": 2025,
+      "url": "https://digitalcommons.njit.edu/cgi/viewcontent.cgi?article=1362&context=cme-syllabi",
+      "doi": "",
+      "citations": 0,
+      "scholar_url": ""
+    },
+    {
+      "title": "Computed entropy spectra for grain boundary segregation in polycrystals",
+      "authors": "Nutth Tuchinda, Christopher A Schuh",
+      "venue": "npj Computational Materials",
+      "year": 2024,
+      "url": "https://www.nature.com/articles/s41524-024-01260-3",
+      "doi": "",
+      "citations": 20,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=9941382816435050657,7639058024268161774"
+    },
+    {
+      "title": "Triple junction excess energy in polycrystalline metals",
+      "authors": "Nutth Tuchinda, Christopher A Schuh",
+      "venue": "Acta Materialia",
+      "year": 2024,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359645424006244",
+      "doi": "",
+      "citations": 14,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=14525084786015432333"
+    },
+    {
+      "title": "Grain boundary segregation for the Fe-P system: Insights from atomistic modeling and Bayesian inference",
+      "authors": "Alexander Reichmann, Nutth Tuchinda, Christoph Doesinger, Daniel Scheiber, Vsevolod I Razumovskiy, Oleg Peil, Thomas P Matson, Christopher A Schuh, Lorenz Romaner",
+      "venue": "Acta Materialia",
+      "year": 2024,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359645424005652",
+      "doi": "",
+      "citations": 11,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=4860136416211675813"
+    },
+    {
+      "title": "The vibrational entropy spectra of grain boundary segregation in polycrystals",
+      "authors": "Nutth Tuchinda, Christopher A Schuh",
+      "venue": "Acta Materialia",
+      "year": 2023,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359645422010059",
+      "doi": "",
+      "citations": 32,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=16079306013711255894"
+    },
+    {
+      "title": "Triple junction solute segregation in Al-based polycrystals",
+      "authors": "Nutth Tuchinda, Christopher A Schuh",
+      "venue": "Physical Review Materials",
+      "year": 2023,
+      "url": "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.7.023601",
+      "doi": "",
+      "citations": 24,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=7131959338402739671"
+    },
+    {
+      "title": "Polycrystalline Grain Boundary Solute Segregation at Finite Sizes and Temperatures",
+      "authors": "Nutth Tuchinda",
+      "venue": "",
+      "year": 2023,
+      "url": "https://search.proquest.com/openview/5816510e94f97b45663d8547ee63b36f/1?pq-origsite=gscholar&cbl=18750&diss=y",
+      "doi": "",
+      "citations": 0,
+      "scholar_url": ""
+    },
+    {
+      "title": "Grain size dependencies of intergranular solute segregation in nanocrystalline materials",
+      "authors": "Nutth Tuchinda, Christopher A Schuh",
+      "venue": "Acta Materialia",
+      "year": 2022,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1359645421009927",
+      "doi": "",
+      "citations": 44,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=3424575479764733245"
+    },
+    {
+      "title": "Sintering behavior and mechanical properties of hydroxyapatite ceramics prepared from Nile Tilapia (Oreochromis niloticus) bone and commercial powder for biomedical applications",
+      "authors": "Atchara Khamkongkaeo, Thanachai Boonchuduang, Wantana Klysubun, Penphitcha Amonpattaratkit, H-thaichnok Chunate, Nutth Tuchinda, Adulphan Pimsawat, Sujittra Daengsakul, Pitphichaya Suksangrat, Wutthigrai Sailuam, Drusawin Vongpramate, Atipong Bootchanont, Boonrat Lohwongwatana",
+      "venue": "Ceramics International",
+      "year": 2021,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0272884221027759",
+      "doi": "",
+      "citations": 33,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=11111952803867513763"
+    },
+    {
+      "title": "Effect of phosphate compound on physical and mechanical properties of SiO2 ceramic",
+      "authors": "Atchara Khamkongkaeo, Atipong Bootchanont, Wantana Klysubun, Penphitcha Amonpattaratkit, Thanachai Boonchuduang, Nutth Tuchinda, Thanawat Phetrattanarangsi, Noppadon Nuntawong, Surasak Kuimalee, Boonrat Lohwongwatana",
+      "venue": "Ceramics International",
+      "year": 2019,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0272884218319953",
+      "doi": "",
+      "citations": 22,
+      "scholar_url": "https://scholar.google.com/scholar?hl=en&cites=3993772632920312797"
+    }
+  ]
+}

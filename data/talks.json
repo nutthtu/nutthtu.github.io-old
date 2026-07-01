@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "note": "Presentations and posters. Sorted newest-first by year. Imported from nutthtu.github.io/publications."
+  },
+  "talks": [
+    {
+      "title": "Grain boundary segregation spectra for HCP metals from augmented multiscale machine learning potentials",
+      "authors": "N. Tuchinda, C. Li, C.A. Schuh",
+      "event": "TMS 2026",
+      "location": "",
+      "type": "Talk",
+      "year": 2026,
+      "url": ""
+    },
+    {
+      "title": "Grain Boundary Embrittlement Genome",
+      "authors": "N. Tuchinda, G.B. Olson, C.A. Schuh",
+      "event": "SRG Meeting 2026",
+      "location": "",
+      "type": "Invited talk",
+      "year": 2026,
+      "url": ""
+    },
+    {
+      "title": "Defect Chemistry Genome for Polycrystalline Materials",
+      "authors": "N. Tuchinda",
+      "event": "Beyond Simulation: ICME Impact Forum, UCI",
+      "location": "",
+      "type": "Talk",
+      "year": 2026,
+      "url": ""
+    },
+    {
+      "title": "On Entropy of Imperfections in Polycrystalline Materials",
+      "authors": "N. Tuchinda",
+      "event": "MSE Seminar",
+      "location": "Rutgers University",
+      "type": "Seminar/Workshop",
+      "year": 2025,
+      "url": ""
+    },
+    {
+      "title": "Computational Materials Design with Universal Machine-Learning Potential (MLIP)",
+      "authors": "N. Tuchinda",
+      "event": "One-day Workshop",
+      "location": "QuesTek Innovations LLC",
+      "type": "Seminar/Workshop",
+      "year": 2025,
+      "url": ""
+    },
+    {
+      "title": "Tailoring Defects in Polycrystalline Alloys Through Segregation Engineering",
+      "authors": "N. Tuchinda",
+      "event": "MSE Seminar Series",
+      "location": "University of Utah",
+      "type": "Seminar/Workshop",
+      "year": 2025,
+      "url": ""
+    },
+    {
+      "title": "Building Blocks for a Polycrystalline Defect Genome via Atomistic Multiscale Modeling",
+      "authors": "N. Tuchinda",
+      "event": "Gordon Research Seminar (GRS) 2025",
+      "location": "Easton, MA",
+      "type": "Talk",
+      "year": 2025,
+      "url": ""
+    },
+    {
+      "title": "Materials Genomic Opportunities via Universal Interatomic Potentials",
+      "authors": "N. Tuchinda",
+      "event": "QuesTek Innovations LLC",
+      "location": "Evanston, IL",
+      "type": "Invited talk",
+      "year": 2025,
+      "url": ""
+    },
+    {
+      "title": "Efficient Computation of Polycrystalline Grain Boundary Segregation by Augmenting Interatomic Potentials",
+      "authors": "N. Tuchinda, C. Li, C.A. Schuh",
+      "event": "MRS Fall 2025",
+      "location": "",
+      "type": "Talk",
+      "year": 2025,
+      "url": ""
+    },
+    {
+      "title": "Triple Junction Interstitial Solute Segregation in Nanocrystalline Alloys",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "TMS 2025",
+      "location": "Las Vegas, NV, USA",
+      "type": "Talk",
+      "year": 2025,
+      "url": ""
+    },
+    {
+      "title": "Energetics of Triple Junctions in Polycrystalline Materials",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "MRS Fall 2024",
+      "location": "Boston, MA, USA",
+      "type": "Talk",
+      "year": 2024,
+      "url": ""
+    },
+    {
+      "title": "Learning Grain Boundary Thermodynamic Spectra in Polycrystals",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "MRS Spring 2024",
+      "location": "Seattle, WA, USA",
+      "type": "Talk",
+      "year": 2024,
+      "url": ""
+    },
+    {
+      "title": "Learning Grain Boundary Segregation Vibrational Spectra from Ni-based Polycrystals",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "MRS Spring 2024",
+      "location": "Seattle, WA, USA",
+      "type": "Talk",
+      "year": 2024,
+      "url": ""
+    },
+    {
+      "title": "Consequences of the Solute Vibrational Contribution in Grain Boundary Segregation",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "TMS 2024",
+      "location": "Orlando, FL, USA",
+      "type": "Talk",
+      "year": 2024,
+      "url": ""
+    },
+    {
+      "title": "Solutes at Triple Lines in Al-Based Nanostructured Alloys",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "MRS Fall 2023",
+      "location": "Boston, MA, USA",
+      "type": "Talk",
+      "year": 2023,
+      "url": ""
+    },
+    {
+      "title": "Triple Junction Segregation Behavior and Design of Dilute Al-based Alloys",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "GRC: Physical Metallurgy 2023",
+      "location": "MA, USA",
+      "type": "Talk",
+      "year": 2023,
+      "url": ""
+    },
+    {
+      "title": "Rapid machine learning estimation of grain boundary segregation vibrational entropy spectra in dilute polycrystals",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "TMS 2023",
+      "location": "San Diego, CA, USA",
+      "type": "Talk",
+      "year": 2023,
+      "url": ""
+    },
+    {
+      "title": "Spectrum of Grain Boundary Segregation Vibrational Entropy in Dilute Ni(Pd) Polycrystals",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "MRS Fall 2022",
+      "location": "Boston, MA, USA",
+      "type": "Talk",
+      "year": 2022,
+      "url": ""
+    },
+    {
+      "title": "Contributions of Triple Junctions and Quadruple Nodes to Grainsize Dependent Intergranular Segregation",
+      "authors": "N. Tuchinda, A. Schuh",
+      "event": "TMS 2022",
+      "location": "Anaheim, CA, USA",
+      "type": "Talk",
+      "year": 2022,
+      "url": ""
+    },
+    {
+      "title": "Cellular Automaton Modeling of Dendritic Growth During Alloy Solidification",
+      "authors": "N. Tuchinda, P. Wanmanomai, C. Puncreobutr",
+      "event": "The 11th Thailand Metallurgy Conference",
+      "location": "Pattaya, Thailand",
+      "type": "Talk",
+      "year": 2018,
+      "url": ""
+    },
+    {
+      "title": "An investigation on effects of N2 partial pressure on structural, morphological, and mechanical properties of CrN film fabricated by RF reactive magnetron sputtering technique",
+      "authors": "N. Tuchinda, R. Kowong, C. Chananonnawathorn, M. Horprathum, A. Khamkongkaeo, B. Lohwongwatana",
+      "event": "MRS Thailand 2017",
+      "location": "Chiang Mai, Thailand",
+      "type": "Talk",
+      "year": 2017,
+      "url": ""
+    }
+  ]
+}

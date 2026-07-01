@@ -1,0 +1,22 @@
+[
+  {
+    "code": "MTEN 631",
+    "title": "Data Science for Chemical and Materials Engineering Applications",
+    "level": "Graduate",
+    "term": "Fall 2025",
+    "description": "Introduction to data-science methods for chemical and materials engineering: statistics, regression, classification, dimensionality reduction, and modern ML for materials data. Practical hands-on labs in Python.",
+    "syllabus": "https://digitalcommons.njit.edu/cgi/viewcontent.cgi?article=1362&context=cme-syllabi",
+    "image": "assets/img/logo.png",
+    "links": []
+  },
+  {
+    "code": "ENGR 301",
+    "title": "Engineering Applications of Data Science",
+    "level": "Undergraduate",
+    "term": "Spring 2026",
+    "description": "Foundations of data analytics for engineering students. Covers descriptive statistics, regression, classification, and visualization through engineering case studies.",
+    "syllabus": "",
+    "image": "assets/img/logo.png",
+    "links": []
+  }
+]

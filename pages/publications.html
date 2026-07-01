@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publications — Imperfection Engineering Group</title>
+  <link rel="icon" href="../favicon.png">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body data-base="../">
+<header class="site-header" data-include="header"></header>
+
+<section class="page-banner">
+  <div class="container">
+    <h1>Publications</h1>
+    <p class="pub-profile-links">
+      <a href="https://orcid.org/0000-0003-4544-5970" target="_blank" rel="noopener">ORCID: 0000-0003-4544-5970</a>
+      <span aria-hidden="true"> · </span>
+      <a href="https://scholar.google.com/citations?user=QiIAZvwAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="pub-tabs" role="tablist">
+      <button class="pub-tab is-active" data-tab="publications" role="tab">Publications</button>
+      <button class="pub-tab" data-tab="talks" role="tab">Talks</button>
+      <button class="pub-tab" data-tab="thesis" role="tab">Thesis</button>
+    </div>
+
+    <div class="pub-panel" id="panel-publications" role="tabpanel">
+      <div class="pubs-controls">
+        <input type="search" id="pub-search" placeholder="Search by title, author, venue…">
+        <select id="pub-year"></select>
+      </div>
+      <p id="pub-updated" class="muted" style="font-size:.85rem; margin-bottom:1rem;"></p>
+      <div id="publications-root"></div>
+    </div>
+
+    <div class="pub-panel" id="panel-talks" role="tabpanel" hidden>
+      <div id="talks-root"></div>
+    </div>
+
+    <div class="pub-panel" id="panel-thesis" role="tabpanel" hidden>
+      <div id="thesis-root"></div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer" data-include="footer"></footer>
+<script src="../assets/js/layout.js"></script>
+<script src="../assets/js/site.js"></script>
+<script>
+  renderPublications();
+  renderTalks();
+  renderTheses();
+  initPubTabs();
+</script>
+</body>
+</html>
