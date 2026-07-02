@@ -22,14 +22,14 @@
 
 /* ===== Reset ===== */
 *,*::before,*::after { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; font-size: 18px; }
 body {
   margin: 0;
   font-family: var(--f-sans);
   color: var(--c-ink);
   background: var(--c-bg);
   line-height: 1.6;
-  font-size: 17px;
+  font-size: 1.06rem;
 }
 img { max-width: 100%; height: auto; display: block; }
 a { color: var(--c-link); text-decoration: none; }
