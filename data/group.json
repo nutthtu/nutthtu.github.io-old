@@ -18,15 +18,21 @@
   "graduate_students": [
     {
       "name": "Md. Hasib",
-      "period": "2025 – Present",
+      "period": "Spring 2025 – Present",
       "image": "assets/img/hasib.jpg",
-      "bio": "BS in Mechanical Engineering (2025), Bangladesh University of Engineering & Technology (BUET). Enjoys walking, hiking, teaching, and solving math problems."
+      "bio": "BS in Mechanical Engineering (2025), Bangladesh University of Engineering & Technology (BUET). Enjoys walking, hiking, teaching, and solving math problems.",
+      "links": [
+        { "text": "Email", "url": "mailto:mh844@njit.edu" }
+      ]
     },
     {
       "name": "Fahmid Faiyaj Chowdhury",
-      "period": "2025 – Present",
+      "period": "Fall 2026 – Present",
       "image": "assets/img/fahmid.jpg",
-      "bio": "Fahmid Faiyaj Chowdhury completed his B.S. in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). He has taken an interest in the world of materials science and how his skills in computational tools and coding can be used for advancing materials research. In his free time, he likes to immerse himself in playing video games."
+      "bio": "Fahmid Faiyaj Chowdhury completed his B.S. in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). He has taken an interest in the world of materials science and how his skills in computational tools and coding can be used for advancing materials research. In his free time, he likes to immerse himself in playing video games.",
+      "links": [
+        { "text": "Email", "url": "mailto:fc334@njit.edu" }
+      ]
     }
   ],
   "undergraduate_students": [
